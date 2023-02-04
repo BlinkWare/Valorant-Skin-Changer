@@ -40,7 +40,6 @@
 </div>
 
 <script type="text/javascript">
-//Call this following all random contents HTML on the page:
 randomcontentdisplay.init()
 
 </script>
